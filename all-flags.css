@@ -1,0 +1,858 @@
+.flg-16, .flg-32, .flg-64, .flg-128 {
+    background-repeat: no-repeat;
+    display: inline-block;
+    vertical-align: middle;
+    background-size: contain;
+}
+
+.flg-16 {
+    width: 16px;
+    height: 16px;
+}
+
+.flg-32 {
+    width: 32px;
+    height: 32px;
+}
+
+.flg-64 {
+    width: 64px;
+    height: 64px;
+}
+
+.flg-128 {
+    width: 128px;
+    height: 128px;
+}
+
+.flg-16.ab, .flg-32.ab, .flg-64.ab, .flg-128.ab {
+    background-image: url(rectangle/abkhazia.png);
+}
+
+.flg-16.af, .flg-32.af, .flg-64.af, .flg-128.af {
+    background-image: url(rectangle/afghanistan.png);
+}
+
+.flg-16.al, .flg-32.al, .flg-64.al, .flg-128.al {
+    background-image: url(rectangle/albania.png);
+}
+
+.flg-16.dz, .flg-32.dz, .flg-64.dz, .flg-128.dz {
+    background-image: url(rectangle/algeria.png);
+}
+
+.flg-16.ad, .flg-32.ad, .flg-64.ad, .flg-128.ad {
+    background-image: url(rectangle/andorra.png);
+}
+
+.flg-16.ao, .flg-32.ao, .flg-64.ao, .flg-128.ao {
+    background-image: url(rectangle/angola.png);
+}
+
+.flg-16.ag, .flg-32.ag, .flg-64.ag, .flg-128.ag {
+    background-image: url(rectangle/antigua-and-barbuda.png);
+}
+
+.flg-16.ar, .flg-32.ar, .flg-64.ar, .flg-128.ar {
+    background-image: url(rectangle/argentina.png);
+}
+
+.flg-16.am, .flg-32.am, .flg-64.am, .flg-128.am {
+    background-image: url(rectangle/armenia.png);
+}
+
+.flg-16.aw, .flg-32.aw, .flg-64.aw, .flg-128.aw {
+    background-image: url(rectangle/aruba.png);
+}
+
+.flg-16.au, .flg-32.au, .flg-64.au, .flg-128.au {
+    background-image: url(rectangle/australia.png);
+}
+
+.flg-16.at, .flg-32.at, .flg-64.at, .flg-128.at {
+    background-image: url(rectangle/austria.png);
+}
+
+.flg-16.az, .flg-32.az, .flg-64.az, .flg-128.az {
+    background-image: url(rectangle/azerbaijan.png);
+}
+
+.flg-16.bs, .flg-32.bs, .flg-64.bs, .flg-128.bs {
+    background-image: url(rectangle/bahamas.png);
+}
+
+.flg-16.bh, .flg-32.bh, .flg-64.bh, .flg-128.bh {
+    background-image: url(rectangle/bahrain.png);
+}
+
+.flg-16.bd, .flg-32.bd, .flg-64.bd, .flg-128.bd {
+    background-image: url(rectangle/bangladesh.png);
+}
+
+.flg-16.bb, .flg-32.bb, .flg-64.bb, .flg-128.bb {
+    background-image: url(rectangle/barbados.png);
+}
+
+.flg-16.by, .flg-32.by, .flg-64.by, .flg-128.by {
+    background-image: url(rectangle/belarus.png);
+}
+
+.flg-16.be, .flg-32.be, .flg-64.be, .flg-128.be {
+    background-image: url(rectangle/belgium.png);
+}
+
+.flg-16.bz, .flg-32.bz, .flg-64.bz, .flg-128.bz {
+    background-image: url(rectangle/belize.png);
+}
+
+.flg-16.bj, .flg-32.bj, .flg-64.bj, .flg-128.bj {
+    background-image: url(rectangle/benin.png);
+}
+
+.flg-16.bm, .flg-32.bm, .flg-64.bm, .flg-128.bm {
+    background-image: url(rectangle/bermuda.png);
+}
+
+.flg-16.bt, .flg-32.bt, .flg-64.bt, .flg-128.bt {
+    background-image: url(rectangle/bhutan.png);
+}
+
+.flg-16.bo, .flg-32.bo, .flg-64.bo, .flg-128.bo {
+    background-image: url(rectangle/bolivia.png);
+}
+
+.flg-16.bq, .flg-32.bq, .flg-64.bq, .flg-128.bq {
+    background-image: url(rectangle/bonaire.png);
+}
+
+.flg-16.ba, .flg-32.ba, .flg-64.ba, .flg-128.ba {
+    background-image: url(rectangle/bosnia-and-herzegovina.png);
+}
+
+.flg-16.bw, .flg-32.bw, .flg-64.bw, .flg-128.bw {
+    background-image: url(rectangle/botswana.png);
+}
+
+.flg-16.br, .flg-32.br, .flg-64.br, .flg-128.br {
+    background-image: url(rectangle/brazil.png);
+}
+
+.flg-16.bn, .flg-32.bn, .flg-64.bn, .flg-128.bn {
+    background-image: url(rectangle/brunei.png);
+}
+
+.flg-16.bg, .flg-32.bg, .flg-64.bg, .flg-128.bg {
+    background-image: url(rectangle/bulgaria.png);
+}
+
+.flg-16.bf, .flg-32.bf, .flg-64.bf, .flg-128.bf {
+    background-image: url(rectangle/burkina-faso.png);
+}
+
+.flg-16.bi, .flg-32.bi, .flg-64.bi, .flg-128.bi {
+    background-image: url(rectangle/burundi.png);
+}
+
+.flg-16.kh, .flg-32.kh, .flg-64.kh, .flg-128.kh {
+    background-image: url(rectangle/cambodia.png);
+}
+
+.flg-16.cm, .flg-32.cm, .flg-64.cm, .flg-128.cm {
+    background-image: url(rectangle/cameroon.png);
+}
+
+.flg-16.ca, .flg-32.ca, .flg-64.ca, .flg-128.ca {
+    background-image: url(rectangle/canada.png);
+}
+
+.flg-16.cv, .flg-32.cv, .flg-64.cv, .flg-128.cv {
+    background-image: url(rectangle/cape-verde.png);
+}
+
+.flg-16.ky, .flg-32.ky, .flg-64.ky, .flg-128.ky {
+    background-image: url(rectangle/cayman-islands.png);
+}
+
+.flg-16.cf, .flg-32.cf, .flg-64.cf, .flg-128.cf {
+    background-image: url(rectangle/central-african-republic.png);
+}
+
+.flg-16.td, .flg-32.td, .flg-64.td, .flg-128.td {
+    background-image: url(rectangle/chad.png);
+}
+
+.flg-16.cl, .flg-32.cl, .flg-64.cl, .flg-128.cl {
+    background-image: url(rectangle/chile.png);
+}
+
+.flg-16.cn, .flg-32.cn, .flg-64.cn, .flg-128.cn {
+    background-image: url(rectangle/china.png);
+}
+
+.flg-16.co, .flg-32.co, .flg-64.co, .flg-128.co {
+    background-image: url(rectangle/colombia.png);
+}
+
+.flg-16.km, .flg-32.km, .flg-64.km, .flg-128.km {
+    background-image: url(rectangle/comoros.png);
+}
+
+.flg-16.cg, .flg-32.cg, .flg-64.cg, .flg-128.cg {
+    background-image: url(rectangle/republic-of-the-congo.png);
+}
+
+.flg-16.cd, .flg-32.cd, .flg-64.cd, .flg-128.cd {
+    background-image: url(rectangle/democratic-republic-of-congo.png);
+}
+
+.flg-16.cr, .flg-32.cr, .flg-64.cr, .flg-128.cr {
+    background-image: url(rectangle/costa-rica.png);
+}
+
+.flg-16.hr, .flg-32.hr, .flg-64.hr, .flg-128.hr {
+    background-image: url(rectangle/croatia.png);
+}
+
+.flg-16.cu, .flg-32.cu, .flg-64.cu, .flg-128.cu {
+    background-image: url(rectangle/cuba.png);
+}
+
+.flg-16.cw, .flg-32.cw, .flg-64.cw, .flg-128.cw {
+    background-image: url(rectangle/curacao.png);
+}
+
+.flg-16.cy, .flg-32.cy, .flg-64.cy, .flg-128.cy {
+    background-image: url(rectangle/cyprus.png);
+}
+
+.flg-16.cz, .flg-32.cz, .flg-64.cz, .flg-128.cz {
+    background-image: url(rectangle/czech-republic.png);
+}
+
+.flg-16.dk, .flg-32.dk, .flg-64.dk, .flg-128.dk {
+    background-image: url(rectangle/denmark.png);
+}
+
+.flg-16.dj, .flg-32.dj, .flg-64.dj, .flg-128.dj {
+    background-image: url(rectangle/djibouti.png);
+}
+
+.flg-16.dm, .flg-32.dm, .flg-64.dm, .flg-128.dm {
+    background-image: url(rectangle/dominica.png);
+}
+
+.flg-16.do, .flg-32.do, .flg-64.do, .flg-128.do {
+    background-image: url(rectangle/dominican-republic.png);
+}
+
+.flg-16.ec, .flg-32.ec, .flg-64.ec, .flg-128.ec {
+    background-image: url(rectangle/ecuador.png);
+}
+
+.flg-16.eg, .flg-32.eg, .flg-64.eg, .flg-128.eg {
+    background-image: url(rectangle/egypt.png);
+}
+
+.flg-16.gq, .flg-32.gq, .flg-64.gq, .flg-128.gq {
+    background-image: url(rectangle/equatorial-guinea.png);
+}
+
+.flg-16.er, .flg-32.er, .flg-64.er, .flg-128.er {
+    background-image: url(rectangle/eritrea.png);
+}
+
+.flg-16.ee, .flg-32.ee, .flg-64.ee, .flg-128.ee {
+    background-image: url(rectangle/estonia.png);
+}
+
+.flg-16.et, .flg-32.et, .flg-64.et, .flg-128.et {
+    background-image: url(rectangle/ethiopia.png);
+}
+
+.flg-16.fj, .flg-32.fj, .flg-64.fj, .flg-128.fj {
+    background-image: url(rectangle/fiji.png);
+}
+
+.flg-16.fi, .flg-32.fi, .flg-64.fi, .flg-128.fi {
+    background-image: url(rectangle/finland.png);
+}
+
+.flg-16.fr, .flg-32.fr, .flg-64.fr, .flg-128.fr {
+    background-image: url(rectangle/france.png);
+}
+
+.flg-16.ga, .flg-32.ga, .flg-64.ga, .flg-128.ga {
+    background-image: url(rectangle/gabon.png);
+}
+
+.flg-16.gm, .flg-32.gm, .flg-64.gm, .flg-128.gm {
+    background-image: url(rectangle/gambia.png);
+}
+
+.flg-16.ge, .flg-32.ge, .flg-64.ge, .flg-128.ge {
+    background-image: url(rectangle/georgia.png);
+}
+
+.flg-16.de, .flg-32.de, .flg-64.de, .flg-128.de {
+    background-image: url(rectangle/germany.png);
+}
+
+.flg-16.gh, .flg-32.gh, .flg-64.gh, .flg-128.gh {
+    background-image: url(rectangle/ghana.png);
+}
+
+.flg-16.gr, .flg-32.gr, .flg-64.gr, .flg-128.gr {
+    background-image: url(rectangle/greece.png);
+}
+
+.flg-16.gl, .flg-32.gl, .flg-64.gl, .flg-128.gl {
+    background-image: url(rectangle/greenland.png);
+}
+
+.flg-16.gd, .flg-32.gd, .flg-64.gd, .flg-128.gd {
+    background-image: url(rectangle/grenada.png);
+}
+
+.flg-16.gt, .flg-32.gt, .flg-64.gt, .flg-128.gt {
+    background-image: url(rectangle/guatemala.png);
+}
+
+.flg-16.gn, .flg-32.gn, .flg-64.gn, .flg-128.gn {
+    background-image: url(rectangle/guinea.png);
+}
+
+.flg-16.gw, .flg-32.gw, .flg-64.gw, .flg-128.gw {
+    background-image: url(rectangle/guinea-bissau.png);
+}
+
+.flg-16.gy, .flg-32.gy, .flg-64.gy, .flg-128.gy {
+    background-image: url(rectangle/guyana.png);
+}
+
+.flg-16.ht, .flg-32.ht, .flg-64.ht, .flg-128.ht {
+    background-image: url(rectangle/haiti.png);
+}
+
+.flg-16.hn, .flg-32.hn, .flg-64.hn, .flg-128.hn {
+    background-image: url(rectangle/honduras.png);
+}
+
+.flg-16.hk, .flg-32.hk, .flg-64.hk, .flg-128.hk {
+    background-image: url(rectangle/hong-kong.png);
+}
+
+.flg-16.hu, .flg-32.hu, .flg-64.hu, .flg-128.hu {
+    background-image: url(rectangle/hungary.png);
+}
+
+.flg-16.is, .flg-32.is, .flg-64.is, .flg-128.is {
+    background-image: url(rectangle/iceland.png);
+}
+
+.flg-16.in, .flg-32.in, .flg-64.in, .flg-128.in {
+    background-image: url(rectangle/india.png);
+}
+
+.flg-16.id, .flg-32.id, .flg-64.id, .flg-128.id {
+    background-image: url(rectangle/indonesia.png);
+}
+
+.flg-16.ir, .flg-32.ir, .flg-64.ir, .flg-128.ir {
+    background-image: url(rectangle/iran.png);
+}
+
+.flg-16.iq, .flg-32.iq, .flg-64.iq, .flg-128.iq {
+    background-image: url(rectangle/iraq.png);
+}
+
+.flg-16.ie, .flg-32.ie, .flg-64.ie, .flg-128.ie {
+    background-image: url(rectangle/ireland.png);
+}
+
+.flg-16.il, .flg-32.il, .flg-64.il, .flg-128.il {
+    background-image: url(rectangle/israel.png);
+}
+
+.flg-16.it, .flg-32.it, .flg-64.it, .flg-128.it {
+    background-image: url(rectangle/italy.png);
+}
+
+.flg-16.jm, .flg-32.jm, .flg-64.jm, .flg-128.jm {
+    background-image: url(rectangle/jamaica.png);
+}
+
+.flg-16.jp, .flg-32.jp, .flg-64.jp, .flg-128.jp {
+    background-image: url(rectangle/japan.png);
+}
+
+.flg-16.jo, .flg-32.jo, .flg-64.jo, .flg-128.jo {
+    background-image: url(rectangle/jordan.png);
+}
+
+.flg-16.kz, .flg-32.kz, .flg-64.kz, .flg-128.kz {
+    background-image: url(rectangle/kazakhstan.png);
+}
+
+.flg-16.ke, .flg-32.ke, .flg-64.ke, .flg-128.ke {
+    background-image: url(rectangle/kenya.png);
+}
+
+.flg-16.ki, .flg-32.ki, .flg-64.ki, .flg-128.ki {
+    background-image: url(rectangle/kiribati.png);
+}
+
+.flg-16.kw, .flg-32.kw, .flg-64.kw, .flg-128.kw {
+    background-image: url(rectangle/kuwait.png);
+}
+
+.flg-16.kg, .flg-32.kg, .flg-64.kg, .flg-128.kg {
+    background-image: url(rectangle/kyrgyzstan.png);
+}
+
+.flg-16.la, .flg-32.la, .flg-64.la, .flg-128.la {
+    background-image: url(rectangle/laos.png);
+}
+
+.flg-16.lv, .flg-32.lv, .flg-64.lv, .flg-128.lv {
+    background-image: url(rectangle/latvia.png);
+}
+
+.flg-16.lb, .flg-32.lb, .flg-64.lb, .flg-128.lb {
+    background-image: url(rectangle/lebanon.png);
+}
+
+.flg-16.ls, .flg-32.ls, .flg-64.ls, .flg-128.ls {
+    background-image: url(rectangle/lesotho.png);
+}
+
+.flg-16.lr, .flg-32.lr, .flg-64.lr, .flg-128.lr {
+    background-image: url(rectangle/liberia.png);
+}
+
+.flg-16.ly, .flg-32.ly, .flg-64.ly, .flg-128.ly {
+    background-image: url(rectangle/libya.png);
+}
+
+.flg-16.li, .flg-32.li, .flg-64.li, .flg-128.li {
+    background-image: url(rectangle/liechtenstein.png);
+}
+
+.flg-16.lt, .flg-32.lt, .flg-64.lt, .flg-128.lt {
+    background-image: url(rectangle/lithuania.png);
+}
+
+.flg-16.lu, .flg-32.lu, .flg-64.lu, .flg-128.lu {
+    background-image: url(rectangle/luxembourg.png);
+}
+
+.flg-16.mo, .flg-32.mo, .flg-64.mo, .flg-128.mo {
+    background-image: url(rectangle/macao.png);
+}
+
+.flg-16.mk, .flg-32.mk, .flg-64.mk, .flg-128.mk {
+    background-image: url(rectangle/republic-of-macedonia.png);
+}
+
+.flg-16.mg, .flg-32.mg, .flg-64.mg, .flg-128.mg {
+    background-image: url(rectangle/madagascar.png);
+}
+
+.flg-16.mw, .flg-32.mw, .flg-64.mw, .flg-128.mw {
+    background-image: url(rectangle/malawi.png);
+}
+
+.flg-16.my, .flg-32.my, .flg-64.my, .flg-128.my {
+    background-image: url(rectangle/malaysia.png);
+}
+
+.flg-16.mv, .flg-32.mv, .flg-64.mv, .flg-128.mv {
+    background-image: url(rectangle/maldives.png);
+}
+
+.flg-16.ml, .flg-32.ml, .flg-64.ml, .flg-128.ml {
+    background-image: url(rectangle/mali.png);
+}
+
+.flg-16.mt, .flg-32.mt, .flg-64.mt, .flg-128.mt {
+    background-image: url(rectangle/malta.png);
+}
+
+.flg-16.mh, .flg-32.mh, .flg-64.mh, .flg-128.mh {
+    background-image: url(rectangle/marshall-islands.png);
+}
+
+.flg-16.mr, .flg-32.mr, .flg-64.mr, .flg-128.mr {
+    background-image: url(rectangle/mauritania.png);
+}
+
+.flg-16.mu, .flg-32.mu, .flg-64.mu, .flg-128.mu {
+    background-image: url(rectangle/mauritius.png);
+}
+
+.flg-16.mx, .flg-32.mx, .flg-64.mx, .flg-128.mx {
+    background-image: url(rectangle/mexico.png);
+}
+
+.flg-16.fm, .flg-32.fm, .flg-64.fm, .flg-128.fm {
+    background-image: url(rectangle/micronesia.png);
+}
+
+.flg-16.md, .flg-32.md, .flg-64.md, .flg-128.md {
+    background-image: url(rectangle/moldova.png);
+}
+
+.flg-16.mc, .flg-32.mc, .flg-64.mc, .flg-128.mc {
+    background-image: url(rectangle/monaco.png);
+}
+
+.flg-16.mn, .flg-32.mn, .flg-64.mn, .flg-128.mn {
+    background-image: url(rectangle/mongolia.png);
+}
+
+.flg-16.me, .flg-32.me, .flg-64.me, .flg-128.me {
+    background-image: url(rectangle/montenegro.png);
+}
+
+.flg-16.ma, .flg-32.ma, .flg-64.ma, .flg-128.ma {
+    background-image: url(rectangle/morocco.png);
+}
+
+.flg-16.mz, .flg-32.mz, .flg-64.mz, .flg-128.mz {
+    background-image: url(rectangle/mozambique.png);
+}
+
+.flg-16.mm, .flg-32.mm, .flg-64.mm, .flg-128.mm {
+    background-image: url(rectangle/myanmar.png);
+}
+
+.flg-16.na, .flg-32.na, .flg-64.na, .flg-128.na {
+    background-image: url(rectangle/namibia.png);
+}
+
+.flg-16.nr, .flg-32.nr, .flg-64.nr, .flg-128.nr {
+    background-image: url(rectangle/nauru.png);
+}
+
+.flg-16.np, .flg-32.np, .flg-64.np, .flg-128.np {
+    background-image: url(rectangle/nepal.png);
+}
+
+.flg-16.nl, .flg-32.nl, .flg-64.nl, .flg-128.nl {
+    background-image: url(rectangle/netherlands.png);
+}
+
+.flg-16.nz, .flg-32.nz, .flg-64.nz, .flg-128.nz {
+    background-image: url(rectangle/new-zealand.png);
+}
+
+.flg-16.ni, .flg-32.ni, .flg-64.ni, .flg-128.ni {
+    background-image: url(rectangle/nicaragua.png);
+}
+
+.flg-16.ne, .flg-32.ne, .flg-64.ne, .flg-128.ne {
+    background-image: url(rectangle/niger.png);
+}
+
+.flg-16.ng, .flg-32.ng, .flg-64.ng, .flg-128.ng {
+    background-image: url(rectangle/nigeria.png);
+}
+
+.flg-16.no, .flg-32.no, .flg-64.no, .flg-128.no {
+    background-image: url(rectangle/norway.png);
+}
+
+.flg-16.ncy, .flg-32.ncy, .flg-64.ncy, .flg-128.ncy {
+    background-image: url(rectangle/northen-cyprus.png);
+}
+
+.flg-16.kp, .flg-32.kp, .flg-64.kp, .flg-128.kp {
+    background-image: url(rectangle/north-korea.png);
+}
+
+.flg-16.om, .flg-32.om, .flg-64.om, .flg-128.om {
+    background-image: url(rectangle/oman.png);
+}
+
+.flg-16.pk, .flg-32.pk, .flg-64.pk, .flg-128.pk {
+    background-image: url(rectangle/pakistan.png);
+}
+
+.flg-16.pw, .flg-32.pw, .flg-64.pw, .flg-128.pw {
+    background-image: url(rectangle/palau.png);
+}
+
+.flg-16.ps, .flg-32.ps, .flg-64.ps, .flg-128.ps {
+    background-image: url(rectangle/palestine.png);
+}
+
+.flg-16.pa, .flg-32.pa, .flg-64.pa, .flg-128.pa {
+    background-image: url(rectangle/panama.png);
+}
+
+.flg-16.pg, .flg-32.pg, .flg-64.pg, .flg-128.pg {
+    background-image: url(rectangle/papua-new-guinea.png);
+}
+
+.flg-16.py, .flg-32.py, .flg-64.py, .flg-128.py {
+    background-image: url(rectangle/paraguay.png);
+}
+
+.flg-16.pe, .flg-32.pe, .flg-64.pe, .flg-128.pe {
+    background-image: url(rectangle/peru.png);
+}
+
+.flg-16.ph, .flg-32.ph, .flg-64.ph, .flg-128.ph {
+    background-image: url(rectangle/philippines.png);
+}
+
+.flg-16.pl, .flg-32.pl, .flg-64.pl, .flg-128.pl {
+    background-image: url(rectangle/poland.png);
+}
+
+.flg-16.pt, .flg-32.pt, .flg-64.pt, .flg-128.pt {
+    background-image: url(rectangle/portugal.png);
+}
+
+.flg-16.pr, .flg-32.pr, .flg-64.pr, .flg-128.pr {
+    background-image: url(rectangle/puerto-rico.png);
+}
+
+.flg-16.qa, .flg-32.qa, .flg-64.qa, .flg-128.qa {
+    background-image: url(rectangle/qatar.png);
+}
+
+.flg-16.ro, .flg-32.ro, .flg-64.ro, .flg-128.ro {
+    background-image: url(rectangle/romania.png);
+}
+
+.flg-16.ru, .flg-32.ru, .flg-64.ru, .flg-128.ru {
+    background-image: url(rectangle/russia.png);
+}
+
+.flg-16.rw, .flg-32.rw, .flg-64.rw, .flg-128.rw {
+    background-image: url(rectangle/rwanda.png);
+}
+
+.flg-16.kn, .flg-32.kn, .flg-64.kn, .flg-128.kn {
+    background-image: url(rectangle/saint-kitts-and-nevis.png);
+}
+
+.flg-16.sv, .flg-32.sv, .flg-64.sv, .flg-128.sv {
+    background-image: url(rectangle/salvador.png);
+}
+
+.flg-16.ws, .flg-32.ws, .flg-64.ws, .flg-128.ws {
+    background-image: url(rectangle/samoa.png);
+}
+
+.flg-16.sm, .flg-32.sm, .flg-64.sm, .flg-128.sm {
+    background-image: url(rectangle/san-marino.png);
+}
+
+.flg-16.st, .flg-32.st, .flg-64.st, .flg-128.st {
+    background-image: url(rectangle/sao-tome-and-principe.png);
+}
+
+.flg-16.sa, .flg-32.sa, .flg-64.sa, .flg-128.sa {
+    background-image: url(rectangle/saudi-arabia.png);
+}
+
+.flg-16.sn, .flg-32.sn, .flg-64.sn, .flg-128.sn {
+    background-image: url(rectangle/senegal.png);
+}
+
+.flg-16.rs, .flg-32.rs, .flg-64.rs, .flg-128.rs {
+    background-image: url(rectangle/serbia.png);
+}
+
+.flg-16.sc, .flg-32.sc, .flg-64.sc, .flg-128.sc {
+    background-image: url(rectangle/seychelles.png);
+}
+
+.flg-16.sl, .flg-32.sl, .flg-64.sl, .flg-128.sl {
+    background-image: url(rectangle/sierra-leone.png);
+}
+
+.flg-16.sg, .flg-32.sg, .flg-64.sg, .flg-128.sg {
+    background-image: url(rectangle/singapore.png);
+}
+
+.flg-16.sk, .flg-32.sk, .flg-64.sk, .flg-128.sk {
+    background-image: url(rectangle/slovakia.png);
+}
+
+.flg-16.si, .flg-32.si, .flg-64.si, .flg-128.si {
+    background-image: url(rectangle/slovenia.png);
+}
+
+.flg-16.sb, .flg-32.sb, .flg-64.sb, .flg-128.sb {
+    background-image: url(rectangle/solomon-islands.png);
+}
+
+.flg-16.so, .flg-32.so, .flg-64.so, .flg-128.so {
+    background-image: url(rectangle/somalia.png);
+}
+
+.flg-16.za, .flg-32.za, .flg-64.za, .flg-128.za {
+    background-image: url(rectangle/south-africa.png);
+}
+
+.flg-16.kr, .flg-32.kr, .flg-64.kr, .flg-128.kr {
+    background-image: url(rectangle/south-korea.png);
+}
+
+.flg-16.ss, .flg-32.ss, .flg-64.ss, .flg-128.ss {
+    background-image: url(rectangle/south-sudan.png);
+}
+
+.flg-16.es, .flg-32.es, .flg-64.es, .flg-128.es {
+    background-image: url(rectangle/spain.png);
+}
+
+.flg-16.lc, .flg-32.lc, .flg-64.lc, .flg-128.lc {
+    background-image: url(rectangle/st-lucia.png);
+}
+
+.flg-16.vc, .flg-32.vc, .flg-64.vc, .flg-128.vc {
+    background-image: url(rectangle/st-vincent-and-the-grenadines.png);
+}
+
+.flg-16.lk, .flg-32.lk, .flg-64.lk, .flg-128.lk {
+    background-image: url(rectangle/sri-lanka.png);
+}
+
+.flg-16.sd, .flg-32.sd, .flg-64.sd, .flg-128.sd {
+    background-image: url(rectangle/sudan.png);
+}
+
+.flg-16.sr, .flg-32.sr, .flg-64.sr, .flg-128.sr {
+    background-image: url(rectangle/suriname.png);
+}
+
+.flg-16.sz, .flg-32.sz, .flg-64.sz, .flg-128.sz {
+    background-image: url(rectangle/swaziland.png);
+}
+
+.flg-16.se, .flg-32.se, .flg-64.se, .flg-128.se {
+    background-image: url(rectangle/sweden.png);
+}
+
+.flg-16.ch, .flg-32.ch, .flg-64.ch, .flg-128.ch {
+    background-image: url(rectangle/switzerland.png);
+}
+
+.flg-16.sy, .flg-32.sy, .flg-64.sy, .flg-128.sy {
+    background-image: url(rectangle/syria.png);
+}
+
+.flg-16.tw, .flg-32.tw, .flg-64.tw, .flg-128.tw {
+    background-image: url(rectangle/taiwan.png);
+}
+
+.flg-16.tj, .flg-32.tj, .flg-64.tj, .flg-128.tj {
+    background-image: url(rectangle/tajikistan.png);
+}
+
+.flg-16.tz, .flg-32.tz, .flg-64.tz, .flg-128.tz {
+    background-image: url(rectangle/tanzania.png);
+}
+
+.flg-16.th, .flg-32.th, .flg-64.th, .flg-128.th {
+    background-image: url(rectangle/thailand.png);
+}
+
+.flg-16.tg, .flg-32.tg, .flg-64.tg, .flg-128.tg {
+    background-image: url(rectangle/togo.png);
+}
+
+.flg-16.to, .flg-32.to, .flg-64.to, .flg-128.to {
+    background-image: url(rectangle/tonga.png);
+}
+
+.flg-16.tt, .flg-32.tt, .flg-64.tt, .flg-128.tt {
+    background-image: url(rectangle/trinidad-and-tobago.png);
+}
+
+.flg-16.tn, .flg-32.tn, .flg-64.tn, .flg-128.tn {
+    background-image: url(rectangle/tunisia.png);
+}
+
+.flg-16.tr, .flg-32.tr, .flg-64.tr, .flg-128.tr {
+    background-image: url(rectangle/turkey.png);
+}
+
+.flg-16.tm, .flg-32.tm, .flg-64.tm, .flg-128.tm {
+    background-image: url(rectangle/turkmenistan.png);
+}
+
+.flg-16.tv, .flg-32.tv, .flg-64.tv, .flg-128.tv {
+    background-image: url(rectangle/tuvalu.png);
+}
+
+.flg-16.ug, .flg-32.ug, .flg-64.ug, .flg-128.ug {
+    background-image: url(rectangle/uganda.png);
+}
+
+.flg-16.ua, .flg-32.ua, .flg-64.ua, .flg-128.ua {
+    background-image: url(rectangle/ukraine2.png);
+}
+
+.flg-16.ae, .flg-32.ae, .flg-64.ae, .flg-128.ae {
+    background-image: url(rectangle/united-arab-emirates.png);
+}
+
+.flg-16.gb, .flg-32.gb, .flg-64.gb, .flg-128.gb {
+    background-image: url(rectangle/united-kingdom.png);
+}
+
+.flg-16.uk, .flg-32.uk, .flg-64.uk, .flg-128.uk {
+    background-image: url(rectangle/united-kingdom.png);
+}
+
+.flg-16.us, .flg-32.us, .flg-64.us, .flg-128.us {
+    background-image: url(rectangle/united-states-of-america.png);
+}
+
+.flg-16.uy, .flg-32.uy, .flg-64.uy, .flg-128.uy {
+    background-image: url(rectangle/uruguay.png);
+}
+
+.flg-16.uz, .flg-32.uz, .flg-64.uz, .flg-128.uz {
+    background-image: url(rectangle/uzbekistan.png);
+}
+
+.flg-16.vu, .flg-32.vu, .flg-64.vu, .flg-128.vu {
+    background-image: url(rectangle/vanuatu.png);
+}
+
+.flg-16.ve, .flg-32.ve, .flg-64.ve, .flg-128.ve {
+    background-image: url(rectangle/venezuela.png);
+}
+
+.flg-16.vn, .flg-32.vn, .flg-64.vn, .flg-128.vn {
+    background-image: url(rectangle/vietnam.png);
+}
+
+.flg-16.eh, .flg-32.eh, .flg-64.eh, .flg-128.eh {
+    background-image: url(rectangle/western-sahara.png);
+}
+
+.flg-16.ye, .flg-32.ye, .flg-64.ye, .flg-128.ye {
+    background-image: url(rectangle/yemen.png);
+}
+
+.flg-16.zm, .flg-32.zm, .flg-64.zm, .flg-128.zm {
+    background-image: url(rectangle/zambia.png);
+}
+
+.flg-16.zw, .flg-32.zw, .flg-64.zw, .flg-128.zw {
+    background-image: url(rectangle/zimbabwe.png);
+}
+
+.flg-16.xk, .flg-32.xk, .flg-64.xk, .flg-128.xk {
+    background-image: url(rectangle/kosovo.png);
+}
+
+.flg-16.world, .flg-32.world, .flg-64.world, .flg-128.world {
+    background-image: url(rectangle/world.png);
+}
