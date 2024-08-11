@@ -30,9 +30,10 @@ git clone https://github.com/arminkit/flags-css.git
 To display a flag, add a flag class and a class with the country code (ISO 3166-1 alpha-2) to any HTML element. For example:
 
 ```
-<span class="flag us"></span> <!-- USA Flag -->
-<span class="flag ca"></span> <!-- Canada Flag -->
-<span class="flag fr"></span> <!-- France Flag -->
+<span class="flg-16 us"></span> <!-- USA Flag 16px -->
+<span class="flg-32 ca"></span> <!-- Canada Flag 32px -->
+<span class="flg-64 fr"></span> <!-- France Flag 64px -->
+<span class="flg-128 ir"></span> <!-- Iran Flag 128px -->
 ```
 
 ## Example
@@ -48,11 +49,11 @@ To display a flag, add a flag class and a class with the country code (ISO 3166-
 </head>
 <body>
     <h1>Country Flags</h1>
-    <span class="flag us"></span> United States<br>
-    <span class="flag ca"></span> Canada<br>
-    <span class="flag fr"></span> France<br>
-    <span class="flag de"></span> Germany<br>
-    <span class="flag jp"></span> Japan<br>
+    <span class="flg-32 us"></span> United States<br>
+    <span class="flg-32 ca"></span> Canada<br>
+    <span class="flg-32 fr"></span> France<br>
+    <span class="flg-32 de"></span> Germany<br>
+    <span class="flg-32 jp"></span> Japan<br>
 </body>
 </html>
 ```
